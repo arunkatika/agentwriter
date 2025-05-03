@@ -1,7 +1,7 @@
 # 🧠 YouTube Blog Writer – AI-Powered Multi-Agent Blog Generator
 
 This project automates the transformation of YouTube video content into well-structured blog articles using Large Language Models (LLMs) and multi-agent collaboration. Built with [CrewAI](https://github.com/joaomdmoura/crewAI), the system simulates a team of intelligent agents (researcher + writer) working together in a sequential pipeline.
-![image](https://github.com/user-attachments/assets/085814f2-6f36-4545-8b4d-9521d2e06fda)
+![image](https://github.com/user-attachments/assets/f95b284f-eb9d-40c2-8aad-689f415dcde7)
 
 ## 🚀 Project Motivation
 
