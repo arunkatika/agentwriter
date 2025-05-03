@@ -116,8 +116,3 @@ This project is open-sourced under the MIT License.
 > Developed by [Arun Kumar Reddy Katika](https://linkedin.com/in/arunkatika) – AI Engineer passionate about automation and content generation with LLMs.
 
 ```
-
----
-
-Let me know if you'd like this formatted as an actual GitHub `README.md` file or want a portfolio-style version.
-```
